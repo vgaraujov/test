@@ -5,3 +5,8 @@ This is vlad Araujo an AI researcher
 I am ecuadorian
 
 I live in belgium
+
+Papers:
+- Attention in all you dont need
+- Rec4LoL
+- CL with adapters
